@@ -11,7 +11,7 @@ https://drive.google.com/drive/folders/1FEotSk6qxiK7LNduFcjqvhRyzMe5joSa?usp=dri
 ### Prerequisites
 - Python 3.8+ installed
 - Packages: `Flask`, `pandas`, `numpy`, `h5py`, `scikit-learn`, `requests`  
-  (You can install them with `pip install -r requirements.txt`)
+  
 
 ### Steps to Run
 1. **Download TEMPO NO₂ Data**
