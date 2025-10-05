@@ -29,5 +29,5 @@
 
 ## Getting Started
 
-Code Excecution: https://github.com/m133b/Air-Aware-St-John-s-NASA-Hackathon-Project-2025/blob/main/TESTING/README.md
+Code Excecution: https://github.com/m133b/Air-Aware-St-John-s-NASA-Hackathon-2025/blob/main/Project%20-%20Files/README.md
 
