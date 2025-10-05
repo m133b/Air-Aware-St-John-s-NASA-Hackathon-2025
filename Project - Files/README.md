@@ -2,20 +2,19 @@
 https://drive.google.com/drive/folders/1FEotSk6qxiK7LNduFcjqvhRyzMe5joSa?usp=drive_link
 
 ## Folder Structure
-
-Project_Files/
+```bash
+     Project_Files/
 │
-├── Nasa_Data/           # Folder to store NASA dataset
+├── Nasa_Data/
 │   └── nasa_data.nc
 │
-├── Front_End/           # Frontend files
+├── Front_End/
 │   ├── index.html
 │   ├── styles.css
 │   └── app.js
 │
-└── app.py               # Main Flask application file
-
-
+└── app.py
+ ```
 
 ## Getting Started
 
