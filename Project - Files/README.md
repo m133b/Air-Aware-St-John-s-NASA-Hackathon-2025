@@ -45,6 +45,7 @@ Project_Files/
 
 5. **Open the Frontend**
    - Open a browser and go to: [http://127.0.0.1:5000](http://127.0.0.1:5000)
+      - Note: This URL works only on your own computer.
    - Explore the interactive map, risk-level filters, and metrics.
 
 ### Notes
