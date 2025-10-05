@@ -3,7 +3,7 @@ https://drive.google.com/drive/folders/1FEotSk6qxiK7LNduFcjqvhRyzMe5joSa?usp=dri
 
 ## Folder Structure
 ```bash
-     Project_Files/
+Project_Files/
 │
 ├── Nasa_Data/
 │   └── nasa_data.nc
