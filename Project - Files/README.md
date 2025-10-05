@@ -8,7 +8,7 @@ Project_Files/
 ├── Nasa_Data/
 │   └── nasa_data.nc
 │
-├── Front_End/
+├── static/ #Front End
 │   ├── index.html
 │   ├── styles.css
 │   └── app.js
