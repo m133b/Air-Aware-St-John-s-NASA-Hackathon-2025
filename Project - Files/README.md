@@ -35,7 +35,7 @@ Project_Files/
    - Open a terminal and navigate to the project folder.
    - Run:  
      ```bash
-     pip install flask pandas numpy scikit-learn h5py requests os
+     pip install flask pandas numpy scikit-learn h5py requests 
      ```
    - Then Run the Python script:  
      ```bash
