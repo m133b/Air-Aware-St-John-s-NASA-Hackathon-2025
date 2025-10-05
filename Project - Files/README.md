@@ -3,7 +3,18 @@ https://drive.google.com/drive/folders/1FEotSk6qxiK7LNduFcjqvhRyzMe5joSa?usp=dri
 
 ## Folder Structure
 
-<img width="696" height="273" alt="image" src="https://github.com/user-attachments/assets/a97917aa-c2a3-499c-8594-9f255434e022" />
+Project_Files/
+│
+├── Nasa_Data/           # Folder to store NASA dataset
+│   └── nasa_data.nc
+│
+├── Front_End/           # Frontend files
+│   ├── index.html
+│   ├── styles.css
+│   └── app.js
+│
+└── app.py               # Main Flask application file
+
 
 
 ## Getting Started
