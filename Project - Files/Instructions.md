@@ -15,7 +15,7 @@ https://drive.google.com/drive/folders/1FEotSk6qxiK7LNduFcjqvhRyzMe5joSa?usp=dri
 
 ### Steps to Run
 1. **Download TEMPO NO₂ Data**
-   - Direct File Link: https://drive.google.com/file/d/1Hkzni5iG2M7TA-8ICOdOQ4jnktSY5672/view?usp=drive_link
+   - Direct File Link: https://drive.google.com/drive/folders/1-aEERqIyn3ayjeRNBzGynn64ZaY6Q6UL?usp=sharing
    - Download the `.nc` file from [NASA Earthdata](https://search.earthdata.nasa.gov/search/granules?p=C2930763263-LARC_CLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&tl=1725287065.877!4!!) or use Direct File Link.
 
 3. **Get OpenWeather API Key**  
